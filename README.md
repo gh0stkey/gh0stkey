@@ -17,7 +17,7 @@
 [![RGPerson](https://github-readme-stats.vercel.app/api/pin/?username=gh0stkey&repo=RGPerson&show_owner=true)](https://github.com/gh0stkey/RGPerson)
 
 
-### 🔱 Top Languages Card
+### 🔱 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stkey&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stkey&hide=css,html&layout=compact)
 
