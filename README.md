@@ -3,7 +3,7 @@
 😈 HACK THE WORLD - TO DO IT.
 
 - 🥸 Name: [Chen Vulkey]
-- 🇨🇳 Blog: [https://en.gh0st.cn/]
+- 🇨🇳 Blog: [https://gh0st.cn/]
 - 💖 Favorite: [Hacker, Code, Music]
 
 ### 🔅 Recent Project
